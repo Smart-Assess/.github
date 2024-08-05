@@ -13,15 +13,8 @@ Our FYP utilizes state-of-the-art Artificial Intelligence (AI) and Natural Langu
 - **Algorithms**: Large Language Models (LLMs), Fine-tuning, Retrieval-Augmented Generation (RAG), Machine Learning
 - **Data Storage**: VectorDB, SQL
 
-## 📂 Project Structure
-
-- **Backend**: Developed using Python and frameworks such as Django or FastAPI, leveraging TensorFlow/PyTorch for AI model implementation.
-- **Frontend**: Built with React-JS for an interactive and user-friendly interface.
-- **Data Processing**: Utilizing LangChain and Scikit-learn for advanced data processing and analysis.
-- **Storage**: MongoDB, SQL is used for efficient data storage and retrieval.
-
 ## 👥 Team Members
-
+- **Abdul Samad Siddiqui** ([@samadpls](https://github.com/samadpls)) - Lead
 - **Maira Usman** ([@Myrausman](https://github.com/myrausman))
 - **Ahsan Sajid** ([@AhsanSajid](https://github.com/ahsansajid25324))
 - **Rayyan** ([@Rayyan](https://github.com/mray96))
